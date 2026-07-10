@@ -1,4 +1,4 @@
-name = "tvbox-cms"
+name = "tvbox-cms"       # Worker 名称，和你的项目名一致
+main = "index.py"        # 入口文件，指向根目录的 index.py
 compatibility_date = "2024-01-01"
 compatibility_flags = ["python_workers"]
-pages_build_output_dir = "functions"
